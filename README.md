@@ -1,4 +1,4 @@
 # apnacollege
 this is first git repository 
 <br>
-Author - yashwant (coeambajogai)
+Author - yashwant (coeambajogaig)
